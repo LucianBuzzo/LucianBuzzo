@@ -27,6 +27,7 @@
 - [Extreme Ownership](https://www.goodreads.com/book/show/23848190-extreme-ownership)
 - [Thinking From First Principles](https://jamesclear.com/first-principles)
 - [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
+- [The World is Underpopulated](http://www.bretthall.org/blog/the-world-is-underpopulated)
 
 ### You should watch...
 

@@ -26,6 +26,7 @@
 - [That Alien Message](https://www.lesswrong.com/posts/5wMcKNAwB6X4mp9og/that-alien-message)
 - [Extreme Ownership](https://www.goodreads.com/book/show/23848190-extreme-ownership)
 - [Thinking From First Principles](https://jamesclear.com/first-principles)
+- [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
 
 ### You should watch...
 
@@ -33,3 +34,4 @@
 - https://youtu.be/Kk2MH9O4pXY
 - https://www.youtube.com/watch?v=bvim4rsNHkQ
 - https://youtu.be/ktuw6Ow4sd0
+- [Elon Musk talking about design process whilst giving Tim Dodd a tour of starbase](https://youtu.be/t705r8ICkRw)

@@ -3,7 +3,6 @@
 - Type II fun connoisseur
 - Part of the [balena](https://github.com/balena-io) crew 
 - OSS enthusiast
-- Aspiring cypherfiend
 - Practical philosopher
 
 ### You should read...

@@ -11,6 +11,7 @@
 - [The Scout Mindset](https://www.penguin.co.uk/books/305/305779/the-scout-mindset/9780241308325.html)
 - [Surely You're Joking Mister Feynman](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)
 - [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
+- [The Phoenix Project](https://itrevolution.com/the-phoenix-project/)
 - [Chesterton’s fence](https://fs.blog/2020/03/chestertons-fence/)
 - [Goodhart’s law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 - [Conway’s law](https://en.wikipedia.org/wiki/Conway%27s_law)

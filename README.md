@@ -28,6 +28,7 @@
 - [Thinking From First Principles](https://jamesclear.com/first-principles)
 - [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
 - [The World is Underpopulated](http://www.bretthall.org/blog/the-world-is-underpopulated)
+- [Long names are long](http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/)
 
 ### You should watch...
 

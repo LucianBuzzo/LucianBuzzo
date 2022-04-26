@@ -9,6 +9,7 @@
 
 - [The Demon-Haunted World](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)
 - [The Scout Mindset](https://www.penguin.co.uk/books/305/305779/the-scout-mindset/9780241308325.html)
+- [The Map Is Not the Territory](https://fs.blog/map-and-territory/)
 - [Surely You're Joking Mister Feynman](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)
 - [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
 - [The Phoenix Project](https://itrevolution.com/the-phoenix-project/)

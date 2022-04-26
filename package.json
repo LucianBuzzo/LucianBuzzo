@@ -1,0 +1,19 @@
+{
+  "name": "lucianbuzzo",
+  "version": "1.0.0",
+  "description": "- Type II fun connoisseur - Part of the [balena](https://github.com/balena-io) crew  - OSS enthusiast - Practical philosopher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucianBuzzo/LucianBuzzo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucianBuzzo/LucianBuzzo/issues"
+  },
+  "homepage": "https://github.com/LucianBuzzo/LucianBuzzo#readme"
+}

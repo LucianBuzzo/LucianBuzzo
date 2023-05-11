@@ -19,6 +19,7 @@
 - [About Face](https://www.goodreads.com/book/show/289058.About_Face)
 - [Joy in the Merely Real](https://www.lesswrong.com/posts/x4dG4GhpZH2hgz59x/joy-in-the-merely-real)
 - [How to Disagree](http://www.paulgraham.com/disagree.html)
+- [You Ain't Gonna Need It](https://martinfowler.com/bliki/Yagni.html)
 - [Why You Should Stop Reading News](https://fs.blog/2013/12/stop-reading-news/)
 - [Gell-Mann Amnesia](https://www.epsilontheory.com/gell-mann-amnesia/)
 - [The Book of Five Rings](https://en.wikipedia.org/wiki/The_Book_of_Five_Rings)

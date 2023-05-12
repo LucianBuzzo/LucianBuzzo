@@ -29,8 +29,6 @@
 - [Building computers from cellular automota](https://youtu.be/Kk2MH9O4pXY)
 - [How Not to Land an Orbital Rocket Booster](https://youtu.be/bvim4rsNHkQ)
   - A reminder that failure is a normal and expected part of forward progress
-- [John Danaher: The Path to Mastery in Jiu Jitsu, Grappling, Judo, and MMA](https://youtu.be/ktuw6Ow4sd0)
-  - Incredible insight into developing new ideas and problem solving in general
 - [Elon Musk talking about design process whilst giving Tim Dodd a tour of starbase](https://youtu.be/t705r8ICkRw)
   1. Make requirements less dumb - your requirements are dumb.
   1. Delete part or process - Cut a lot, add back if needed

@@ -4,14 +4,14 @@
   <link rel="alternate" type="text/html" href="http://lucianbuzzo.com/"/>
   <link rel="self" type="application/atom+xml" href="http://lucianbuzzo.com/atom.xml"/>
   <title>This is a default title.</title>
-  <updated>2023-05-12T16:26:25Z</updated>
+  <updated>2023-05-23T09:24:33Z</updated>
   <author>
     <name>Lucian Buzzo</name>
   </author>
   <entry>
     <id>http://lucianbuzzo.com/README</id>
-    <published>2023-05-12T16:26:25Z</published>
-    <updated>2023-05-12T16:26:25Z</updated>
+    <published>2023-05-23T09:24:33Z</published>
+    <updated>2023-05-23T09:24:33Z</updated>
     <link rel="alternate" type="text/html" href="http://lucianbuzzo.com/README"/>
     <title/>
     <content type="html">&lt;h3 data-sourcepos="1:1-1:20"&gt;
@@ -23,43 +23,44 @@
 &lt;/ul&gt;
 &lt;h3 data-sourcepos="7:1-7:22"&gt;
 &lt;a id="you-should-read" class="anchor" href="#you-should-read" aria-hidden="true"&gt;&lt;span aria-hidden="true" class="octicon octicon-link"&gt;&lt;/span&gt;&lt;/a&gt;You should read...&lt;/h3&gt;
-&lt;ul data-sourcepos="9:1-25:0"&gt;
-&lt;li data-sourcepos="9:1-9:82"&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Demon-Haunted_World"&gt;The Demon-Haunted World&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="10:1-10:102"&gt;&lt;a href="https://www.penguin.co.uk/books/305/305779/the-scout-mindset/9780241308325.html"&gt;The Scout Mindset&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="11:1-11:88"&gt;&lt;a href="https://www.goodreads.com/book/show/3828902-thinking-in-systems"&gt;Thinking in Systems&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="12:1-12:70"&gt;&lt;a href="https://itrevolution.com/the-phoenix-project/"&gt;The Phoenix Project&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="13:1-13:68"&gt;&lt;a href="https://fs.blog/2020/03/chestertons-fence/"&gt;Chesterton’s fence&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="14:1-14:68"&gt;&lt;a href="https://en.wikipedia.org/wiki/Goodhart%27s_law"&gt;Goodhart’s law&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="15:1-15:64"&gt;&lt;a href="https://en.wikipedia.org/wiki/Conway%27s_law"&gt;Conway’s law&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="16:1-16:102"&gt;&lt;a href="https://en.citizendium.org/wiki/Parable_of_the_two_watchmakers"&gt;The parable of the two watchmakers&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="17:1-17:60"&gt;&lt;a href="http://www.paulgraham.com/disagree.html"&gt;How to Disagree&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="18:1-18:70"&gt;&lt;a href="https://martinfowler.com/bliki/Yagni.html"&gt;You Ain't Gonna Need It&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="19:1-19:80"&gt;&lt;a href="https://fs.blog/2013/12/stop-reading-news/"&gt;Why You Should Stop Reading News&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="20:1-20:80"&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Book_of_Five_Rings"&gt;The Book of Five Rings&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="21:1-21:85"&gt;&lt;a href="https://www.goodreads.com/book/show/23848190-extreme-ownership"&gt;Extreme Ownership&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="22:1-22:75"&gt;&lt;a href="https://jamesclear.com/first-principles"&gt;Thinking From First Principles&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="23:1-23:78"&gt;&lt;a href="https://en.wikipedia.org/wiki/Kolmogorov_complexity"&gt;Kolmogorov Complexity&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="24:1-25:0"&gt;&lt;a href="http://www.bretthall.org/blog/the-world-is-underpopulated"&gt;The World is Underpopulated&lt;/a&gt;&lt;/li&gt;
+&lt;ul data-sourcepos="9:1-26:0"&gt;
+&lt;li data-sourcepos="9:1-9:57"&gt;&lt;a href="https://grugbrain.dev/"&gt;The Eternal Enemy: Complexity&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="10:1-10:82"&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Demon-Haunted_World"&gt;The Demon-Haunted World&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="11:1-11:102"&gt;&lt;a href="https://www.penguin.co.uk/books/305/305779/the-scout-mindset/9780241308325.html"&gt;The Scout Mindset&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="12:1-12:88"&gt;&lt;a href="https://www.goodreads.com/book/show/3828902-thinking-in-systems"&gt;Thinking in Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="13:1-13:70"&gt;&lt;a href="https://itrevolution.com/the-phoenix-project/"&gt;The Phoenix Project&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="14:1-14:68"&gt;&lt;a href="https://fs.blog/2020/03/chestertons-fence/"&gt;Chesterton’s fence&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="15:1-15:68"&gt;&lt;a href="https://en.wikipedia.org/wiki/Goodhart%27s_law"&gt;Goodhart’s law&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="16:1-16:64"&gt;&lt;a href="https://en.wikipedia.org/wiki/Conway%27s_law"&gt;Conway’s law&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="17:1-17:102"&gt;&lt;a href="https://en.citizendium.org/wiki/Parable_of_the_two_watchmakers"&gt;The parable of the two watchmakers&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="18:1-18:60"&gt;&lt;a href="http://www.paulgraham.com/disagree.html"&gt;How to Disagree&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="19:1-19:70"&gt;&lt;a href="https://martinfowler.com/bliki/Yagni.html"&gt;You Ain't Gonna Need It&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="20:1-20:80"&gt;&lt;a href="https://fs.blog/2013/12/stop-reading-news/"&gt;Why You Should Stop Reading News&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="21:1-21:80"&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Book_of_Five_Rings"&gt;The Book of Five Rings&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="22:1-22:85"&gt;&lt;a href="https://www.goodreads.com/book/show/23848190-extreme-ownership"&gt;Extreme Ownership&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="23:1-23:75"&gt;&lt;a href="https://jamesclear.com/first-principles"&gt;Thinking From First Principles&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="24:1-24:78"&gt;&lt;a href="https://en.wikipedia.org/wiki/Kolmogorov_complexity"&gt;Kolmogorov Complexity&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="25:1-26:0"&gt;&lt;a href="http://www.bretthall.org/blog/the-world-is-underpopulated"&gt;The World is Underpopulated&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 data-sourcepos="26:1-26:23"&gt;
+&lt;h3 data-sourcepos="27:1-27:23"&gt;
 &lt;a id="you-should-watch" class="anchor" href="#you-should-watch" aria-hidden="true"&gt;&lt;span aria-hidden="true" class="octicon octicon-link"&gt;&lt;/span&gt;&lt;/a&gt;You should watch...&lt;/h3&gt;
-&lt;ul data-sourcepos="28:1-37:14"&gt;
-&lt;li data-sourcepos="28:1-28:75"&gt;&lt;a href="https://youtu.be/5g3dK2DgW-k"&gt;Common mistakes that every engineer makes&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="29:1-29:75"&gt;&lt;a href="https://youtu.be/Kk2MH9O4pXY"&gt;Building computers from cellular automota&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sourcepos="30:1-31:77"&gt;
+&lt;ul data-sourcepos="29:1-38:14"&gt;
+&lt;li data-sourcepos="29:1-29:75"&gt;&lt;a href="https://youtu.be/5g3dK2DgW-k"&gt;Common mistakes that every engineer makes&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="30:1-30:75"&gt;&lt;a href="https://youtu.be/Kk2MH9O4pXY"&gt;Building computers from cellular automota&lt;/a&gt;&lt;/li&gt;
+&lt;li data-sourcepos="31:1-32:77"&gt;
 &lt;a href="https://youtu.be/bvim4rsNHkQ"&gt;How Not to Land an Orbital Rocket Booster&lt;/a&gt;
-&lt;ul data-sourcepos="31:3-31:77"&gt;
-&lt;li data-sourcepos="31:3-31:77"&gt;A reminder that failure is a normal and expected part of forward progress&lt;/li&gt;
+&lt;ul data-sourcepos="32:3-32:77"&gt;
+&lt;li data-sourcepos="32:3-32:77"&gt;A reminder that failure is a normal and expected part of forward progress&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li data-sourcepos="32:1-37:14"&gt;
+&lt;li data-sourcepos="33:1-38:14"&gt;
 &lt;a href="https://youtu.be/t705r8ICkRw"&gt;Elon Musk talking about design process whilst giving Tim Dodd a tour of starbase&lt;/a&gt;
-&lt;ol data-sourcepos="33:3-37:14"&gt;
-&lt;li data-sourcepos="33:3-33:62"&gt;Make requirements less dumb - your requirements are dumb.&lt;/li&gt;
-&lt;li data-sourcepos="34:3-34:59"&gt;Delete part or process - Cut a lot, add back if needed&lt;/li&gt;
-&lt;li data-sourcepos="35:3-35:64"&gt;Simplify or optimize - don't optimize what shouldn't exist.&lt;/li&gt;
-&lt;li data-sourcepos="36:3-36:61"&gt;Accelerate cycle time - once you got 1-3 done, go faster&lt;/li&gt;
-&lt;li data-sourcepos="37:3-37:14"&gt;Automate&lt;/li&gt;
+&lt;ol data-sourcepos="34:3-38:14"&gt;
+&lt;li data-sourcepos="34:3-34:62"&gt;Make requirements less dumb - your requirements are dumb.&lt;/li&gt;
+&lt;li data-sourcepos="35:3-35:59"&gt;Delete part or process - Cut a lot, add back if needed&lt;/li&gt;
+&lt;li data-sourcepos="36:3-36:64"&gt;Simplify or optimize - don't optimize what shouldn't exist.&lt;/li&gt;
+&lt;li data-sourcepos="37:3-37:61"&gt;Accelerate cycle time - once you got 1-3 done, go faster&lt;/li&gt;
+&lt;li data-sourcepos="38:3-38:14"&gt;Automate&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content>

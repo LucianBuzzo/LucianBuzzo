@@ -6,6 +6,7 @@
 
 ### You should read...
 
+- [The Eternal Enemy: Complexity](https://grugbrain.dev/)
 - [The Demon-Haunted World](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)
 - [The Scout Mindset](https://www.penguin.co.uk/books/305/305779/the-scout-mindset/9780241308325.html)
 - [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)

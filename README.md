@@ -1,5 +1,5 @@
 ### About me
-- VP of Engineering @cerebruminc
+- CTO @cerebruminc
 - OSS enthusiast
 - [The Eternal Enemy: Complexity](https://grugbrain.dev/)
 - [The Goal](https://en.wikipedia.org/wiki/The_Goal_(novel))
